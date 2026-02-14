@@ -1,6 +1,3 @@
-#  NeonWarriors - Ready to Deploy!
-
-## ✅ Everything is Complete
 
 ## 🚀 Deploy Right Now (2 minutes)
 
