@@ -1,10 +1,6 @@
-# 🎯 NeonWarriors - Ready to Deploy!
+#  NeonWarriors - Ready to Deploy!
 
 ## ✅ Everything is Complete
-
-All development work is done. You're literally one command away from deploying your game.
-
----
 
 ## 🚀 Deploy Right Now (2 minutes)
 
@@ -18,20 +14,7 @@ cd /Users/harshkumar/Desktop/projects/project_web3_battle_game/web3
 
 ---
 
-## 📋 What the Script Does
-
-1. ✅ Checks your setup
-2. ✅ Creates `.env` template (you add your private key)
-3. ✅ Compiles the contract
-4. ✅ Reminds you to get test AVAX
-5. ✅ Deploys to Fuji testnet
-6. ✅ Shows you the contract address
-7. ✅ Offers to update frontend automatically
-8. ✅ Tells you exactly what to do next
-
----
-
-## 📚 What We've Built
+##  What We've Built
 
 ### ⚡ NeonWarriors Game
 - Cyberpunk-themed NFT card battle game
@@ -47,7 +30,7 @@ cd /Users/harshkumar/Desktop/projects/project_web3_battle_game/web3
 - Input validation
 - Tested battle logic
 
-### 📄 Documentation (8 Files)
+###  Documentation (8 Files)
 - `DEPLOY_NOW.md` ← **YOU ARE HERE**
 - `PROJECT_COMPLETE.md` - Full project summary
 - `QUICK_START.md` - Detailed deployment guide
@@ -57,7 +40,7 @@ cd /Users/harshkumar/Desktop/projects/project_web3_battle_game/web3
 - `REBRANDING_SUMMARY.md` - What changed
 - `TODO.md` - Future work
 
-### 🧪 Tests
+###  Tests
 - 30 comprehensive tests
 - 20 critical path tests
 - All dependencies installed
@@ -88,19 +71,7 @@ Once deployed, players can:
 
 ---
 
-## 🏆 What You've Accomplished
-
-✅ Complete UI rebrand (cyberpunk theme)  
-✅ Smart contract renamed and secured  
-✅ New gameplay features (critical hits)  
-✅ Security hardening (ReentrancyGuard)  
-✅ Comprehensive documentation (8 files)  
-✅ Professional test suite (30 tests)  
-✅ Deployment automation (./deploy.sh)  
-
----
-
-## ⏰ Time Remaining
+## Time Remaining
 
 **To deployment**: 2 minutes (just run `./deploy.sh`)  
 **To first game**: 5 minutes total  
@@ -108,7 +79,7 @@ Once deployed, players can:
 
 ---
 
-## 🎯 The Final Command
+##  The Final Command
 
 **Run this**:
 ```bash
@@ -126,7 +97,7 @@ cd /Users/harshkumar/Desktop/projects/project_web3_battle_game/web3
 
 ---
 
-## 🎉 You're Done!
+##  You're Done!
 
 Everything is ready. All code is written. All tests are ready. All docs are complete.
 
