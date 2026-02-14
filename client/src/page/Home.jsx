@@ -69,10 +69,9 @@ const Home = () => {
 export default PageHOC(
   Home,
   <>
-    Welcome to Avax Gods <br /> a Web3 NFT Card Game
+    Welcome to Neon Warriors <br /> a Cyberpunk NFT Card Game
   </>,
   <>
-    Connect your wallet to start playing <br /> the ultimate Web3 Battle Card
-    Game
+    Connect your wallet to enter the neon grid <br /> and dominate the ultimate Web3 Battle
   </>,
 );

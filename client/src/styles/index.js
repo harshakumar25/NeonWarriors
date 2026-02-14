@@ -3,14 +3,14 @@ const styles = {
   headText: 'font-rajdhani font-bold text-white sm:text-6xl text-4xl',
   normalText: 'font-rajdhani font-normal text-[24px] text-siteWhite',
   footerText: 'font-rajdhani font-medium text-base text-white',
-  infoText: 'font-rajdhani font-medium text-lg text-siteViolet cursor-pointer',
+  infoText: 'font-rajdhani font-medium text-lg text-siteCyan cursor-pointer',
 
   // glassmorphism
   glassEffect: 'bg-white backdrop-filter backdrop-blur-lg bg-opacity-10',
 
   // hoc page
   hocContainer: 'min-h-screen flex xl:flex-row flex-col relative',
-  hocContentBox: 'flex flex-1 justify-between bg-siteblack py-8 sm:px-12 px-8 flex-col',
+  hocContentBox: 'flex flex-1 justify-between bg-siteBlack py-8 sm:px-12 px-8 flex-col',
   hocLogo: 'w-[160px] h-[52px] object-contain cursor-pointer',
   hocBodyWrapper: 'flex-1 flex justify-center flex-col xl:mt-0 my-16',
 
@@ -53,7 +53,7 @@ const styles = {
 
   // custom input component
   label: 'font-rajdhani font-semibold text-2xl text-white mb-3',
-  input: 'bg-siteDimBlack text-white outline-none focus:outline-siteViolet p-4 rounded-md sm:max-w-[50%] max-w-full',
+  input: 'bg-siteDim text-white outline-none focus:outline-siteCyan p-4 rounded-md sm:max-w-[50%] max-w-full',
 
   // gameload component
   gameLoadContainer: 'absolute inset-0 z-10 w-full h-screen gameload flex-col',

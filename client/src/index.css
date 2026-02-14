@@ -15,7 +15,8 @@
   display: flex;
   width: 4px;
   height: 100%;
-  background: #7f46f0;
+  background: #00f3ff;
+  box-shadow: 0 0 10px #00f3ff, 0 0 20px #00f3ff;
   margin-right: 12px;
 }
 
@@ -57,7 +58,7 @@
 }
 
 .gameload {
-  background: rgba(127, 70, 240, 0.15);
+  background: rgba(188, 19, 254, 0.15);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(7px);
   -webkit-backdrop-filter: blur(3px);

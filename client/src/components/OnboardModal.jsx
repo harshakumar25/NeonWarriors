@@ -36,10 +36,10 @@ const OnboardModal = () => {
         return (
           <>
             <p className={styles.modalText}>
-              You don't have Core Wallet installed!
+              You don't have a Web3 Wallet installed!
             </p>
             <CustomButton
-              title="Download Core"
+              title="Download Wallet"
               handleClick={() => window.open('https://core.app/', '_blank')}
             />
           </>
@@ -49,7 +49,7 @@ const OnboardModal = () => {
         return (
           <>
             <p className={styles.modalText}>
-              You haven't connected your account to Core Wallet!
+              You haven't connected your account to the grid!
             </p>
             <CustomButton
               title="Connect Account"
@@ -62,7 +62,7 @@ const OnboardModal = () => {
         return (
           <>
             <p className={styles.modalText}>
-              You're on a different network. Switch to Fuji C-Chain.
+              You're on a different sector. Switch to Fuji C-Chain.
             </p>
             <CustomButton title="Switch" handleClick={SwitchNetwork} />
           </>

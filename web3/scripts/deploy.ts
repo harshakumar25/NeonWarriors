@@ -11,12 +11,12 @@ async function deploy(name: string, ...params: [string]) {
 
 async function main() {
   const [admin] = await ethers.getSigners();
-  
+
   console.log(`Deploying a smart contract...`);
 
-  const AVAXGods = (await deploy('AVAXGods', _metadataUri)).connect(admin);
+  const NeonWarriors = (await deploy('NeonWarriors', _metadataUri)).connect(admin);
 
-  console.log({ AVAXGods: AVAXGods.address });
+  console.log({ NeonWarriors: NeonWarriors.address });
 }
 
 main()

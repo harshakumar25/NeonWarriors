@@ -22,7 +22,7 @@ const GameLoad = () => {
 
       <div className={`flex-1 ${styles.flexCenter} flex-col`}>
         <h1 className={`${styles.headText} text-center`}>
-          Waiting for a <br /> worthy opponent...
+          Waiting for a <br /> hacker to challenge your grid dominance...
         </h1>
         <p className={styles.gameLoadText}>
           Protip: while you're waiting, choose your preferred battleground
