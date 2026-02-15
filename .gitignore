@@ -55,3 +55,4 @@ deployed_address.txt
 # Misc
 *.tsbuildinfo
 .eslintcache
+.vercel

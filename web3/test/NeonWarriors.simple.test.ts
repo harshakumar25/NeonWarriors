@@ -40,7 +40,7 @@ describe("NeonWarriors - Critical Tests", function () {
     describe("🔴 2. Battle Creation & Joining", function () {
         beforeEach(async function () {
             await neonWarriors.connect(player1).registerPlayer("Player1", "Token1");
-            await neon Warriors.connect(player2).registerPlayer("Player2", "Token2");
+            await neonWarriors.connect(player2).registerPlayer("Player2", "Token2");
         });
 
         it("Should create a battle", async function () {
